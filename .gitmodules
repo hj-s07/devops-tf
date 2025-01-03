@@ -1,3 +1,6 @@
 [submodule "terraform-demo"]
 	path = terraform-demo
 	url = https://github.com/hj-s07/terraform-demo.git
+[submodule "cloud-demo"]
+	path = cloud-demo
+	url = https://github.com/hj-s07/cloud-demo.git
